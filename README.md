@@ -8,7 +8,7 @@
  UI не идеальный.
  
 # ------------------------------------------
-# Accounting for criminal cases C# WPF
+# Law office. Accounting for criminal cases C# WPF
 # EN
 # Course project
  For correct work, you need to insert your connection string created with SQL Server in the App.config file
