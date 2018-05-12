@@ -9,7 +9,7 @@
 # ------------------------------------------
 # EN
 # Accounting for criminal cases C# WPF
-#Course project
+# Course project
  For correct work, you need to insert your connection string created with SQL Server in the App.config file
  Next, you need to create a database, then in the Deployment \ SQL directory copy the script inital.sql
  and execute it in SQL Server.
